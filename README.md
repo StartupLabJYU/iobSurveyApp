@@ -2,7 +2,7 @@
 
 Survey application for IoB experiment
 
-React Native
+- React Native
 
 Libraries:
 * react-navigation
