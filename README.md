@@ -1,7 +1,7 @@
 # Iob Survey Application
 
 Based on https://www.npmjs.com/package/react-native-simple-survey  
-Journey [here](https://flinga.fi/s/FJX64Z4)
+The development journey can be found [here](https://flinga.fi/s/FJX64Z4)
 
 Survey application for IoB experiment
 
