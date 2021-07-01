@@ -13,3 +13,4 @@ Libraries:
 * react-native-selection-group
 * react-native-simple-survey
 * react-native-gesture-handler
+* react-native-device-info
